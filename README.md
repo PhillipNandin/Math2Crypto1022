@@ -1,13 +1,12 @@
 # Hi, I’m @Math2Crypto1022
  <p> From a phenomonological perspective, it is my belief that the distinction
       between <i>abstractions</i> and the <i>physical world</i> is largely illusory.
-      This belief stems from my experience of life, a variety of
-      religious and philosophical teachings, and that the application
-      of <i>abstractions</i> to computers has changed the reality we occupy, to such
-      an extent that, the line between <i>abstraction</i> and <i>reality</i> is
-      blurred. </p>
-      <p>The purpose of this is to illustrate the relationship between <i>abstractions</i>
+</p>      
+<p>The purpose of this is to illustrate the relationship between <i>abstractions</i>
       and technology.
+</p>
+<p> The line between abstractions and reality has become blurred more than ever due to the growing relationship between <i>abstractions</i> and technology.
+
 <p>From a technological perspective, I am currently learning: The RSA Digital Signature Scheme, Elliptic Curve Cryptography, Data Algorithms, Bitcoin Blockchain technology, Public Key Assymetric Cryptography, and most interestly... Quantum Computing.
       </p>
 <p>From a philosophical point of view, I am learning: All the technical topics above, Jungian Psychology, Chaos Theory, Godel's Incompleteness Theorems, Tibetan Yogas of Dream of Sleep, Carlos Castaneda's Books, Phenomonology, and Radical Empircism.
