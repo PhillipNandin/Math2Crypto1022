@@ -6,9 +6,7 @@
       of <i>abstractions</i> to computers has changed the reality we occupy, to such
       an extent that, the line between <i>abstraction</i> and <i>reality</i> is
       blurred. </p>
-      <p>The purpose of this is to illustrate  —to the most <i>generally <b>truly</b>
-       interested </i> reader
-      coming from the widest range of disciplines— the relationship between <i>abstractions</i>
+      <p>The purpose of this is to illustrate the relationship between <i>abstractions</i>
       and technology.
 <p>From a technological perspective, I am currently learning: The RSA Digital Signature Scheme, Elliptic Curve Cryptography, Data Algorithms, Bitcoin Blockchain technology, Public Key Assymetric Cryptography, and most interestly... Quantum Computing.
       </p>
