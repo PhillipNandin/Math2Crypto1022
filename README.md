@@ -10,9 +10,9 @@
        interested </i> reader
       coming from the widest range of disciplines— the relationship between <i>abstractions</i>
       and technology.
-<p>From a technological perspective currently learning: The RSA Digital Signature Scheme, Elliptic Curve Cryptography, Data Algorithms, Bitcoin Blockchain technology, Public Key Assymetric Cryptography, and most interestly... Quantum Computing.
+<p>From a technological perspective, I am currently learning: The RSA Digital Signature Scheme, Elliptic Curve Cryptography, Data Algorithms, Bitcoin Blockchain technology, Public Key Assymetric Cryptography, and most interestly... Quantum Computing.
       </p>
-<p>From a philosophical point of view I am learning: Jungian Psychology, Chaos Theory, Godel's Incompleteness Theorems, Tibetan Yogas of Dream of Sleep, Carlos Castaneda's Books, Phenomonology, and Radical Empircism.
+<p>From a philosophical point of view, I am learning: All the technical topics above, Jungian Psychology, Chaos Theory, Godel's Incompleteness Theorems, Tibetan Yogas of Dream of Sleep, Carlos Castaneda's Books, Phenomonology, and Radical Empircism.
       </p>
       
 I’m looking to collaborate on anything.
