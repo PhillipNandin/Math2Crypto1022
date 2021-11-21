@@ -3,9 +3,7 @@
       between <i>abstractions</i> and the <i>physical world</i> is largely illusory.
 </p>      
 <p>The purpose of this is to illustrate the relationship between <i>abstractions</i>
-      and technology.
-</p>
-<p> The line between abstractions and reality has become blurred more than ever due to the growing relationship between <i>abstractions</i> and technology.
+      and technology. The line between abstractions and reality has become blurred more than ever due to this growing relationship.
 
 <p>From a technological perspective, I am currently learning: The RSA Digital Signature Scheme, Elliptic Curve Cryptography, Data Algorithms, Bitcoin Blockchain technology, Public Key Assymetric Cryptography, and most interestly... Quantum Computing.
       </p>
